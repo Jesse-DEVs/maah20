@@ -1,16 +1,18 @@
-## Hi there 👋
+### BEM VINDOS AO MEU PERFIL 💙
 
-<!--
-**maah20/maah20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome e mayara 
 
-Here are some ideas to get you started:
+-Estou estando na [Alura](https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Estou me desenvolvendo na linguagem JavaScript
+
+-ultizo esse espaço para minha organizaçao e compartilhamento dos meu de desenvolvindos
+
+### VOCE ENTRAR EM CONTATO COMINGO 📫
+
+00001114088511sp@al.educacao.sp.gpv.br
+
+maah_domingooss
+
+
+![](https://media1.tenor.com/m/DcbNSBghVIMAAAAd/rapunzel-tangled.gif)
