@@ -8,7 +8,7 @@ meu nome e mayara
 
 -ultizo esse espaço para minha organizaçao e compartilhamento dos meu de desenvolvindos
 
-### VOCE ENTRAR EM CONTATO COMINGO 📫
+### VOCE ENTRAR EM CONTATO COMIGO 📫
 
 00001114088511sp@al.educacao.sp.gpv.br
 
